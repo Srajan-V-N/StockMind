@@ -1,0 +1,226 @@
+
+> stockmind@1.0.0 build
+> next build
+
+  ▲ Next.js 14.2.35
+  - Environments: .env
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/9) ...
+ ⚠ Unsupported metadata viewport is configured in metadata export in /trading. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /trading. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /trading. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /trading. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Error: useTheme must be used within ThemeProvider
+    at c (E:\StockMind\.next\server\chunks\119.js:1:11598)
+    at d (E:\StockMind\.next\server\chunks\935.js:1:3748)
+    at nj (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46252)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47572)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64547)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nD (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:66681)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64854)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58561) {
+  digest: '4232429407'
+}
+ ⚠ Unsupported metadata viewport is configured in metadata export in /trading. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /trading. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+
+Error occurred prerendering page "/trading". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ ⚠ Unsupported metadata viewport is configured in metadata export in /notifications. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /notifications. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /notifications. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /notifications. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Error: useTheme must be used within ThemeProvider
+    at c (E:\StockMind\.next\server\chunks\119.js:1:11598)
+    at d (E:\StockMind\.next\server\chunks\935.js:1:3748)
+    at nj (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46252)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47572)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64547)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nD (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:66681)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64854)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58561) {
+  digest: '4232429407'
+}
+ ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /stocks. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /stocks. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /stocks. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /stocks. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Error: useTheme must be used within ThemeProvider
+    at c (E:\StockMind\.next\server\chunks\119.js:1:11598)
+    at d (E:\StockMind\.next\server\chunks\935.js:1:3748)
+    at nj (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46252)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47572)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64547)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nD (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:66681)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64854)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58561) {
+  digest: '4232429407'
+}
+ ⚠ Unsupported metadata viewport is configured in metadata export in /stocks. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /stocks. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+
+Error occurred prerendering page "/stocks". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: useTheme must be used within ThemeProvider
+    at c (E:\StockMind\.next\server\chunks\119.js:1:11598)
+    at d (E:\StockMind\.next\server\chunks\935.js:1:3748)
+    at nj (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46252)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47572)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64547)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nD (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:66681)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64854)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58561)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /news. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /news. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /news. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /news. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Error: useTheme must be used within ThemeProvider
+    at c (E:\StockMind\.next\server\chunks\119.js:1:11598)
+    at d (E:\StockMind\.next\server\chunks\935.js:1:3748)
+    at nj (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46252)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47572)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64547)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nD (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:66681)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64854)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58561) {
+  digest: '4232429407'
+}
+ ⚠ Unsupported metadata viewport is configured in metadata export in /crypto. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /crypto. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /crypto. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /crypto. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+   Generating static pages (2/9) 
+Error: useTheme must be used within ThemeProvider
+    at c (E:\StockMind\.next\server\chunks\119.js:1:11598)
+    at d (E:\StockMind\.next\server\chunks\935.js:1:3748)
+    at nj (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46252)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47572)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64547)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nD (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:66681)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64854)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58561)
+   Generating static pages (4/9) 
+ ⚠ Unsupported metadata viewport is configured in metadata export in /news. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /news. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+
+Error occurred prerendering page "/news". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: useTheme must be used within ThemeProvider
+    at c (E:\StockMind\.next\server\chunks\119.js:1:11598)
+    at d (E:\StockMind\.next\server\chunks\935.js:1:3748)
+    at nj (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46252)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47572)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64547)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nD (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:66681)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64854)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58561)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /notifications. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /notifications. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+
+Error occurred prerendering page "/notifications". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: useTheme must be used within ThemeProvider
+    at c (E:\StockMind\.next\server\chunks\119.js:1:11598)
+    at d (E:\StockMind\.next\server\chunks\935.js:1:3748)
+    at nj (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46252)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47572)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64547)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nD (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:66681)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64854)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58561)
+Error: useTheme must be used within ThemeProvider
+    at c (E:\StockMind\.next\server\chunks\119.js:1:11598)
+    at d (E:\StockMind\.next\server\chunks\935.js:1:3748)
+    at nj (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46252)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47572)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64547)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nD (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:66681)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64854)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58561) {
+  digest: '4232429407'
+}
+ ⚠ Unsupported metadata viewport is configured in metadata export in /crypto. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /crypto. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+
+Error occurred prerendering page "/crypto". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: useTheme must be used within ThemeProvider
+    at c (E:\StockMind\.next\server\chunks\119.js:1:11598)
+    at d (E:\StockMind\.next\server\chunks\935.js:1:3748)
+    at nj (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46252)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47572)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64547)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nD (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:66681)
+    at nL (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64854)
+    at nB (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67539)
+    at nM (E:\StockMind\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:58561)
+   Generating static pages (6/9) 
+ ✓ Generating static pages (9/9)
+
+> Export encountered errors on following paths:
+	/crypto/page: /crypto
+	/news/page: /news
+	/notifications/page: /notifications
+	/stocks/page: /stocks
+	/trading/page: /trading

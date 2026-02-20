@@ -1,0 +1,33 @@
+# StockMind Python Server Dependencies
+# Install with: pip install -r python/requirements.txt
+
+# Web Server
+fastapi>=0.100.0
+uvicorn>=0.23.0
+
+# HTTP Client
+httpx>=0.24.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Company Descriptions
+wikipedia>=1.4.0
+
+# Historical Data (Stooq fallback per B.md)
+pandas-datareader>=0.10.0
+
+# Stock Data Fallback
+yfinance>=0.2.0
+
+# AI Sector Classification (Gemini)
+google-generativeai>=0.3.0
+
+# Async SQLite for persistent data storage
+aiosqlite>=0.19.0
+
+# Indian Stock Market (optional - for NSE integration)
+nsetools>=1.0.11
+
+# Note: nsetools is optional. If not installed, Indian stocks
+# will fallback to RapidAPI Yahoo Finance.
