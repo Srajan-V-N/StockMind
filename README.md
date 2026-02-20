@@ -81,7 +81,7 @@ The Home page serves as the primary entry point for exploring financial markets 
 
 <p align="center"><b>Fig 2:</b> Individual stock intelligence page with interactive charts, statistics, and sector-wise competitor analysis.</p>
 
-![Stocks2](screenshots/Stocks2.png)
+![Stocks2](screenshots/Stocks3.png)
 
 <p align="center"><b>Fig 3:</b> Extended stock view showing AI-driven peer competitors and company context.</p>
 
@@ -101,7 +101,7 @@ Provides comprehensive stock-level intelligence combining quantitative data with
 
 ### AI-Based News Sentiment Analysis
 
-![Sentiment](screenshots/Stocks3.png)
+![Sentiment](screenshots/Stocks2.png)
 
 <p align="center"><b>Fig 4:</b> Sentiment distribution showing positive, neutral, and negative financial news classification.</p>
 
