@@ -174,7 +174,7 @@ Provides comprehensive stock-level intelligence combining quantitative data with
 
 ![Chatbot](screenshots/ChatBot.png)
 
-<p align="center"><b>Fig 9:</b> Conversational AI assistant powered by Google Gemini.</p>
+**Fig 9:** Conversational AI assistant powered by Google Gemini.
 
 #### Capabilities
 
@@ -298,7 +298,7 @@ An intelligent behavioral coach that analyzes user trading patterns and provides
 
 ![Learning](screenshots/Learning_Mode.png)
 
-<p align="center"><b>Fig 16:</b> Educational modules integrated into the trading workflow.</p>
+**Fig 16:** Educational modules integrated into the trading workflow.
 
 #### What It Includes
 
